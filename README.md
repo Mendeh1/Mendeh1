@@ -14,7 +14,8 @@ Apasionado estudiante de programación backend en constante evolución. Especial
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-2986cc?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E??style=flat-square&logo=JavaScript&logoColor=white)
+  ![JavaScript](https://shields.io/badge/JavaScript-F7DF1?Estyle=flat-square&logo=JavaScript&logoColor=white)
+ 
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF)
