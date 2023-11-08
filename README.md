@@ -26,6 +26,7 @@
 - 🔧 &nbsp;
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20Idea-060606?style=flat-square&logo=intellij-idea&labelColor=060606&logoColor=FFF)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2986cc?style=flat-square&logo=visual-studio-code&labelColor=2986cc&logoColor=FFF)
+![Sublime text](https://img.shields.io/badge/sublimetext%20-23FF9800?style=flat-square&logo=Sublime-Text&labelColor=23FF9800&logoColor=FFF)
 
 <br/>
 
