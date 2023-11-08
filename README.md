@@ -25,6 +25,7 @@
 
 - 🔧 &nbsp;
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20Idea-060606?style=flat-square&logo=intellij-idea&labelColor=060606&logoColor=FFF)
+![Visual Studio Code](https://img.shields.io/badge/-RStudio-?style=flat-s2986ccquare&logo=rsStudio&labelColor=2986cc&logoColor=FFF)
 
 <br/>
 
