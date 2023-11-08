@@ -7,7 +7,7 @@
   ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-E34F26?style=flat-square&logo=css3&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-2986cc?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 - 🛢 &nbsp;
