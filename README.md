@@ -1,10 +1,10 @@
 ![giphy](https://github.com/Mendeh1/Mendeh1/assets/91163094/22e61658-83f8-462d-926b-9749a6f17f13) 
 <h3> 🛠 &nbsp;habilidades</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
+- 💻 &nbsp;ED8B00 6DB33F
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&labelColor=3670A0&logoColor=FFF)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&labelColor=3670A0&logoColor=FFF)
+  ![Spring Boot](https://img.shields.io/static/Spring+Boot-6DB33F?style=flat-square&logo=Spring+Boot&labelColor=6DB33F&logoColor=FFF)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-2986cc?style=flat-square&logo=css3&logoColor=white)
@@ -18,7 +18,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-060606?style=flat-square&logo=github&labelColor=060606&logoColor=FFF)
 
 - 🔧 &nbsp;
-![Intellij IDEA](https://img.shields.io/badge/Intellij%20Idea--060606?style=flat-square&logo=intellij&labelColor=060606&logoColor=FFF)
+![Intellij IDEA](https://img.shields.io/badge/Intellij%20Idea-060606?style=flat-square&logo=intellij&labelColor=060606&logoColor=FFF)
   
 
 
