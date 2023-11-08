@@ -1,5 +1,5 @@
 ![giphy](https://github.com/Mendeh1/Mendeh1/assets/91163094/22e61658-83f8-462d-926b-9749a6f17f13) 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;habilidades</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -18,7 +18,8 @@
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Intellij IDEA]
+  ![Intellij IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
+  
 
 
 
