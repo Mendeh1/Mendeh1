@@ -19,6 +19,14 @@
 
 - 🔧 &nbsp;
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20Idea-060606?style=flat-square&logo=intellij&labelColor=060606&logoColor=FFF)
+
+<h3>Contacta conmigo </h3>
+
+<p align="center">
+<a href="linkedin.com/in/sebastian-mendez-valiente-ab8a1623b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://instagram.com/andres_valiente14?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="Sebastian:sebasandres12342@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
   
 
 
