@@ -20,6 +20,15 @@
 - 🔧 &nbsp;
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20Idea-060606?style=flat-square&logo=intellij&labelColor=060606&logoColor=FFF)
 
+<br/>
+
+<a href="https://github.com/Mendeh1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mendeh1&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendeh1&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
 <h3>Contacta conmigo </h3>
 
 <p align="center">
