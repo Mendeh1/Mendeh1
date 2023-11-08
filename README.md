@@ -3,7 +3,7 @@
 
 <h3>🧑🏻‍💻Sobre mi</h3>
 
-
+Apasionado estudiante de programación backend en constante evolución. Especializado en Java, Spring Boot, MySQL, Python, HTML y CSS. Comprometido con la excelencia y el aprendizaje continuo. Mi enfoque centrado y mi entusiasmo por adquirir nuevos conocimientos me impulsan a enfrentar desafíos con creatividad y determinación. ¡Construyendo el futuro del desarrollo con cada línea de código!
 
 <h3> 🛠 &nbsp;habilidades</h3>
 
