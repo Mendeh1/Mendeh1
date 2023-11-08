@@ -14,8 +14,8 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-7f6000?style=flat-square&logo=MongoDB&labelColor=7f6000&logoColor=FFF)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-a2c4c9?style=flat-square&logo=Git&labelColor=a2c4c9&logoColor=FFF)
-  ![GitHub](https://img.shields.io/badge/-GitHub-a2c4c9?style=flat-square&logo=github&labelColor=a2c4c9&logoColor=FFF)
+  ![Git](https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=Git&labelColor=E34F26&logoColor=FFF)
+  ![GitHub](https://img.shields.io/badge/-GitHub-060606?style=flat-square&logo=github&labelColor=060606&logoColor=FFF)
 
 - 🔧 &nbsp;
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
