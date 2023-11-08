@@ -26,7 +26,6 @@
 <br/>
 
 <a href="https://github.com/Mendeh1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mendeh1&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendeh1&theme=buefy&layout=compact" />
 </a>
 
