@@ -24,7 +24,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-060606?style=flat-square&logo=github&labelColor=060606&logoColor=FFF)
 
 - 🔧 &nbsp;
-![Intellij IDEA](https://img.shields.io/badge/Intellij%20Idea-060606?style=flat-square&logo=intellij&labelColor=060606&logoColor=FFF)
+![Intellij IDEA](https://img.shields.io/badge/Intellij%20Idea-060606?style=flat-square&logo=intellij-idea&labelColor=060606&logoColor=FFF)
 
 <br/>
 
