@@ -1,6 +1,9 @@
 ![giphy](https://github.com/Mendeh1/Mendeh1/assets/91163094/22e61658-83f8-462d-926b-9749a6f17f13) 
-<h2>Hola, soy Sebastian!!!</h2>
-<h3>Sobre mi</h3>
+<h2>👋Hola, soy Sebastian!!!</h2>
+
+<h3>🧑🏻‍💻Sobre mi</h3>
+
+
 
 <h3> 🛠 &nbsp;habilidades</h3>
 
