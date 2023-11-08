@@ -40,7 +40,7 @@ Apasionado estudiante de programación backend en constante evolución. Especial
 <h3>Contacta conmigo </h3>
 
 <p align="center">
-<a href="linkedin.com/in/sebastian-mendez-valiente-ab8a1623b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sebastian%20Mendez%20Valiente-blue?style=flat-square&logo=linkedin"></a>
+<a href="www.linkedin.com/in/sebastian-mendez-valiente-ab8a1623b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sebastian%20Mendez%20Valiente-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://instagram.com/andres_valiente14?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-andres_valiente14-blue?style=flat-square&logo=instagram"></a>
 <a href="Sebastian:sebasandres12342@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sebasandres12342@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
