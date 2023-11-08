@@ -1,9 +1,12 @@
 ![giphy](https://github.com/Mendeh1/Mendeh1/assets/91163094/22e61658-83f8-462d-926b-9749a6f17f13) 
+<h2>Hola, soy Sebastian!!!</h2>
+<h3>Sobre mi</h3>
+
 <h3> 🛠 &nbsp;habilidades</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&labelColor=3670A0&logoColor=FFF)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&labelColor=3670A0&logoColor=FFF)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&labelColor=ED8B00&logoColor=FFF)
   ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
