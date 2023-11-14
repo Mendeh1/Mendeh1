@@ -3,7 +3,15 @@
 
 <h3>🧑🏻‍💻Sobre mi</h3>
 
-Apasionado estudiante de programación backend en constante evolución. Especializado en Java, Spring Boot, MySQL, Python, HTML y CSS. Comprometido con la excelencia y el aprendizaje continuo. Mi enfoque centrado y mi entusiasmo por adquirir nuevos conocimientos me impulsan a enfrentar desafíos con creatividad y determinación. ¡Construyendo el futuro del desarrollo con cada línea de código!
+Especializado en Java, Spring Boot, MySQL, Python, HTML y CSS, me embarco en el emocionante viaje del desarrollo web backend. Mi compromiso con la excelencia y el aprendizaje continuo me impulsa a enfrentar desafíos con creatividad y determinación.
+
+<h3>Experiencia</h3>
+
+Como desarrollador web backend, tengo experiencia en la construcción de REST APIs a partir de modelos de Base de Datos Relacionales o No Relacionales (SQL, NOSQL). Además, puedo desarrollar escenarios de pruebas unitarias con JEST, asegurando la calidad de los servicios creados en una API REST con Express.
+
+<h3>Enfoque y Actitud</h3>
+Mi enfoque centrado y entusiasmo por adquirir nuevos conocimientos se combinan con habilidades sociales, como el trabajo en equipo, rápido aprendizaje y seguimiento de instrucciones.
+
 
 <h3> 🛠 &nbsp;habilidades</h3>
 
